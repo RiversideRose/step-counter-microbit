@@ -4,7 +4,8 @@
 ## A simple step counter for a BBC Microbit
 * **Able To Display The Amount Of Steps You've Taken** (Press A)
 * **Reset Steps** (Press B)
-* **Convert Steps To FT** (Press A + B)
+* **Convert Steps To FeeT** (Press A + B)
+* ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/66091556/131727488-7f2c7c99-d0ca-4507-b0d8-c366665fc235.gif)
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
