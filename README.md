@@ -1,6 +1,10 @@
 
 > Open this page at [https://riversiderose.github.io/step-counter-microbit/](https://riversiderose.github.io/step-counter-microbit/)
 
+## A simple step counter for a BBC Microbit
+* **Able To Display The Amount Of Steps You've Taken** (Press A)
+* **Reset Steps** (Press B)
+* **Convert Steps To FT** (Press A + B)
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
